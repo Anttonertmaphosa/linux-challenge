@@ -1,0 +1,52 @@
+TASK1
+1.a list of files on the terminal,typing the ls command gives the system an instruction to list all the files and directories in the current working directory
+2./home/anttonert,this means that the pwd command is a command line utility for printing the current working directory
+3.mkdir workspace
+4.Nothing,the workspace directory is empty
+5.touch README.md
+6.cp README.md CHANGELOG.md
+
+TASK2
+1.touch exercise.md 
+mv exercise.md /tmp
+rm /tmp/exercise
+
+TASK3
+1.touch umuzi.md
+touch recruits.md
+touch cohort.md
+2.echo "HUMAN CENTERED DESIGN THINKING" 1> umuzi.md
+echo "EMPATHIZING WITH OUR USER" 1> recruits.md
+echo "FINDING SOLUTIONG TO OUR USER'S PROBLEMS" 1> cohort.md
+3.concatenate.sh
+4.append.sh
+5.echo "THE END" >> summary.md
+
+TASK4
+1.locate.sh
+2.
+
+TASK5
+1.
+
+TASK6
+1.find.pdf.sh
+2.
+3.find . -maxdepth 1 -newermt "2020-03-20"
+
+
+TASK7
+1.ctrl+O
+2.ctrl+S
+ctrl+X
+3. mkdir my_files
+mv my_bio.md my_files
+
+TASK8
+1.done
+2.done
+3.done
+4.completed
+5.installed
+
+
